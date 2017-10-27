@@ -1,0 +1,3 @@
+chardet==3.0.4                                                                                        
+slackweb==1.0.5
+pyyaml==3.12
