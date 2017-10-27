@@ -1,4 +1,4 @@
-version: 0.2                                                                                          
+version: 0.2
 
 phases:
   install:
@@ -20,5 +20,5 @@ artifacts:
     - lambda_function.py
     - chardet/*
     - slackweb/*
+    - yaml/*
   base-directory: src
-
