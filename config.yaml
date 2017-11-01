@@ -1,0 +1,11 @@
+webhook_url: 'Slack URL'
+username: 'SES Bot'
+filter:
+  -
+    subject: 'hoge'
+    attachments_color: 'danger'
+    post_channel: '#hoge'
+  -
+    post_channel: '#general'
+    attachments_color: 'good'
+
